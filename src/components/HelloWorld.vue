@@ -25,6 +25,7 @@
 		created(){
 			show();
 			console.log(a.b);
+			console.log('fdasgfdsagf')
 		},
 		data() {
 			return {
