@@ -12,6 +12,8 @@
 			<button type="primary" @click="outExes" class="exportExportBtn">导出</button>
 		</download-excel>
 		<button type="primary" @click="outExe" class="exportExportBtns">导出2</button>
+		<button type="primary" @click="outExe" class="exportExportBtns">导出3</button>
+		<button type="primary" @click="outExe" class="exportExportBtns">导出4</button>
 	</div>
 </template>
 <script>
